@@ -109,7 +109,7 @@ group_two() {
 
 # Start both groups in parallel
 # group_one & group_two &
-group_one
+group_two
 
 # Wait for both background tasks to complete
 # wait
